@@ -1,0 +1,23 @@
+li {
+    list-style-type: none;
+}
+ 
+
+.header {
+    background-color: #adaaaa;
+}
+.title {
+}
+.header-list {
+}
+.header-item {
+    color: #212121;
+}
+.address {
+}
+.address-mail {
+    color: #757575;
+}
+.address-phone {
+    color: #757575;
+}
